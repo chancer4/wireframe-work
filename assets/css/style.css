@@ -84,51 +84,65 @@ body {
 .container.C #fancyb {
   text-align: center;
 }
+/* line 84, ../compass/sass/style.scss */
+.container.C #img-descript1 {
+  padding-left: 15%;
+  padding-right: 7.5%;
+}
+/* line 88, ../compass/sass/style.scss */
+.container.C #img-descript2 {
+  padding: 0% 7.5% 0% 7.5%;
+}
+/* line 92, ../compass/sass/style.scss */
+.container.C #img-descript3 {
+  padding-right: 15%;
+  padding-left: 7.5%;
+}
 
-/* line 86, ../compass/sass/style.scss */
+/* line 98, ../compass/sass/style.scss */
 .container.D {
   position: relative;
   padding: 3% 0% 3% 0%;
   color: white;
 }
-/* line 90, ../compass/sass/style.scss */
+/* line 102, ../compass/sass/style.scss */
 .container.D .flexslider {
   border: solid teal 1px;
 }
-/* line 93, ../compass/sass/style.scss */
+/* line 105, ../compass/sass/style.scss */
 .container.D h5 {
   border-bottom: 2px solid gray;
 }
 
-/* line 100, ../compass/sass/style.scss */
+/* line 112, ../compass/sass/style.scss */
 .container.E {
   padding-top: 1%;
   padding-bottom: 1%;
   color: white;
   background: #666;
 }
-/* line 105, ../compass/sass/style.scss */
+/* line 117, ../compass/sass/style.scss */
 .container.E h2 {
   border-bottom: 2px solid grey;
 }
 
-/* line 110, ../compass/sass/style.scss */
+/* line 122, ../compass/sass/style.scss */
 .container.F {
   color: white;
   padding: 1% 0% 1% 0%;
 }
 
-/* line 116, ../compass/sass/style.scss */
+/* line 128, ../compass/sass/style.scss */
 .container.G {
   padding: 3% 0% 3% 0%;
   background: #666;
   color: white;
 }
-/* line 120, ../compass/sass/style.scss */
+/* line 132, ../compass/sass/style.scss */
 .container.G .col-md-2.col-md-offset-2 {
   text-align: center;
 }
-/* line 123, ../compass/sass/style.scss */
+/* line 135, ../compass/sass/style.scss */
 .container.G .col-md-2.col-md-offset-2.B {
   text-align: right;
 }
